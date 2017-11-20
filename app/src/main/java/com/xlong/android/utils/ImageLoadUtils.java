@@ -5,7 +5,7 @@ import android.widget.ImageView;
 
 import com.bumptech.glide.DrawableRequestBuilder;
 import com.bumptech.glide.Glide;
-import com.xlong.retrofitdemo.R;
+import com.xlong.android.R;
 
 
 /**
